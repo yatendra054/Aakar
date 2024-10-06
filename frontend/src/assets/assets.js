@@ -8,7 +8,9 @@ import girl_bg from './girl_bg_removed.png';
 import goal_icon from './goals_icon.png';
 import page_icon from './page_icon.png';
 import right_arrow from './right_arrow.png';
-
+import Github from './GitHub.png';
+import instagram from './Instagram.png';
+import twitter from './TwitterX.png';
 
 export const assets = {
   logo_white,
@@ -20,5 +22,8 @@ export const assets = {
   girl_bg,
   goal_icon,
   page_icon,
-  right_arrow
+  right_arrow,
+  Github,
+  instagram,
+  twitter
 }

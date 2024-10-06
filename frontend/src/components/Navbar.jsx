@@ -17,7 +17,7 @@ const Navbar = () => {
           <img
             src={assets.logo_white}
             alt="Aakar Logo"
-            className="w-[100px] h-[100px] z-1 absolute"
+            className="w-[2.5rem] h-[3.5rem] z-1 absolute"
           />
         </div>
       </div>
